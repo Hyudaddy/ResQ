@@ -1,0 +1,53 @@
+export const locationData = {
+  municipalities: [
+    'Alaminos',
+    'Bay',
+    'Biñan',
+    'Cabuyao',
+    'Calamba',
+    'Calauan',
+    'Cavinti',
+    'Famy',
+    'Kalayaan',
+    'Liliw',
+    'Los Baños',
+    'Luisiana',
+    'Lumban',
+    'Mabitac',
+    'Magdalena',
+    'Majayjay',
+    'Nagcarlan',
+    'Paete',
+    'Pagsanjan',
+    'Pakil',
+    'Pangil',
+    'Pila',
+    'Rizal',
+    'San Pablo',
+    'San Pedro',
+    'Santa Cruz',
+    'Santa Maria',
+    'Santa Rosa',
+    'Siniloan',
+    'Victoria'
+  ],
+  barangays: {
+    'Los Baños': [
+      'Anos',
+      'Bagong Silang',
+      'Bambang',
+      'Batong Malake',
+      'Baybayin',
+      'Bayog',
+      'Lalakay',
+      'Maahas',
+      'Malinta',
+      'Mayondon',
+      'Putho-Tuntungin',
+      'San Antonio',
+      'Tadlac',
+      'Timugan'
+    ],
+    // Add more barangays for other municipalities
+  }
+};
